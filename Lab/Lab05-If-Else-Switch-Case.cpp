@@ -39,10 +39,10 @@ int main()
 {
 #include <stdio.h>
 
-    float score;
+    int score;
 
     printf(" Enter score : ");
-    scanf("%f", &score);
+    scanf("%d", &score);
 
     if (score >= 80)
     {
