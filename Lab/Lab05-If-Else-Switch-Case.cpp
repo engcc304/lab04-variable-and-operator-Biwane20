@@ -78,7 +78,7 @@ int main()
     }
     else
     {
-        printf(" please enter number only ");
+        printf(" please enter number only ") ;
     }
     return 0;
 } // end main functio
